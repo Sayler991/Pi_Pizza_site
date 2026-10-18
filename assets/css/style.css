@@ -219,3 +219,4 @@ fieldset{border:0;padding:0;margin:0 0 1rem}legend{font-weight:800;margin-bottom
 .hero-bg::after{content:"π";position:absolute;right:4vw;bottom:-6vw;font:800 38vw/1 Georgia,serif;color:rgba(31,45,85,.06);pointer-events:none}
 .foot .demo{display:block;margin-top:.6rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase}
 .review footer b{font-weight:700}
+.links{background:rgba(246,241,232,.88);padding:.45rem 1.1rem;border-radius:99px}
