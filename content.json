@@ -1,0 +1,133 @@
+{
+ "version": 1,
+ "business": {
+  "name": "Pi pizza and Burgers",
+  "tagline": "Pizzeria · pizzas & burgers — boulevard 24 mètres, Tlemcen",
+  "instagram": [],
+  "main_branch": "tlemcen"
+ },
+ "hero": {
+  "kicker": "Pizzeria · Boulevard 24 mètres · Tlemcen",
+  "title": "Pizza & burger, *version π*.",
+  "tagline": "Touchez + sur la pizza ou le burger, envoyez votre commande : la pizzeria vous rappelle pour confirmer. À emporter ou en livraison."
+ },
+ "ordering": {
+  "open": true,
+  "delivery": true,
+  "closed_text": "La commande en ligne est momentanément fermée. Appelez la pizzeria au 0550 49 71 22.",
+  "delivery_note": "Livraison : zone, délai et éventuels frais à confirmer par la pizzeria au téléphone.",
+  "pickup_note": "La pizzeria vous appelle pour confirmer avant de lancer la préparation."
+ },
+ "hours": {
+  "text": "Horaires non publiés : appelez avant de passer.",
+  "note": ""
+ },
+ "branches": [
+  {
+   "key": "tlemcen",
+   "name": "Pi pizza and Burgers",
+   "city": "Boulevard 24 mètres, Tlemcen",
+   "address": "Boulevard 24 mètres, Tlemcen (plus code VMGQ+2F2)",
+   "phone": "0550 49 71 22",
+   "phone_intl": "+213550497122",
+   "maps_url": "https://maps.app.goo.gl/cUNPxPrVed92BvZZ6",
+   "hours": "Horaires non publiés — appelez-nous",
+   "orders": true,
+   "main": true
+  }
+ ],
+ "menu": {
+  "currency": "DA",
+  "note": "Aucune carte ni aucun prix n’ont été publiés en ligne : prix à venir. Vous pouvez déjà commander, la pizzeria vous donne le prix au téléphone.",
+  "categories": [
+   {
+    "key": "pizzas",
+    "title": "Pizzas",
+    "desc": "La pâte que les clients saluent dans leurs avis.",
+    "items": [
+     {
+      "id": "pizza",
+      "name": "Pizza",
+      "desc": "Précisez la pizza voulue dans la remarque : la carte détaillée arrive bientôt.",
+      "price": "",
+      "photo": "pizza",
+      "available": true,
+      "tag": "« La pâte incroyable »"
+     }
+    ]
+   },
+   {
+    "key": "burgers",
+    "title": "Burgers",
+    "desc": "L’autre moitié de l’enseigne « Pizza & Burger ».",
+    "items": [
+     {
+      "id": "burger",
+      "name": "Burger",
+      "desc": "Précisez votre burger dans la remarque : la carte détaillée arrive bientôt.",
+      "price": "",
+      "photo": "burger",
+      "available": true
+     }
+    ]
+   }
+  ]
+ },
+ "reviews": {
+  "source": "Avis Google — 4,8★ (25 avis). Textes cités mot pour mot ; nom des auteurs non publié par la source consultée.",
+  "items": [
+   {
+    "author": "Avis Google 5★",
+    "when": "juillet 2025",
+    "text": "top qualité la pizza la pâte incroyable"
+   },
+   {
+    "author": "Avis Google 5★",
+    "when": "décembre 2025",
+    "text": "De la bonne pizza avec un service de bonne qualité."
+   },
+   {
+    "author": "Avis Google 5★",
+    "when": "mai 2025",
+    "text": "Bonne pizza . Bon accueil. Bravo"
+   },
+   {
+    "author": "Avis Google 5★",
+    "when": "janvier 2025",
+    "text": "Endroit convivial Très bonne nourriture Je recommande !"
+   }
+  ]
+ },
+ "about": {
+  "title": "Un *π* sur la façade, des portes rouges, *du bon* dedans.",
+  "text": "Pi pizza and Burgers vous accueille boulevard 24 mètres à Tlemcen : pizzas et burgers, sur place ou à emporter. Noté 4,8 sur 5 par ses clients sur Google.",
+  "quote": "top qualité la pizza la pâte incroyable"
+ },
+ "photos": {
+  "hero": {
+   "label": "Grande photo d’accueil (façade réelle)",
+   "src": "",
+   "alt": "Façade de Pi pizza and Burgers à Tlemcen : logo π « Pizza & Burger » et portes rouges"
+  },
+  "facade": {
+   "label": "Façade (photo réelle)",
+   "src": "",
+   "alt": "Façade de Pi pizza and Burgers, boulevard 24 mètres"
+  },
+  "sign": {
+   "label": "Plaque πZZERIA (photo réelle)",
+   "src": "",
+   "alt": "Plaque noire « πZZERIA — Pizza & Burger » sur la façade"
+  },
+  "pizza": {
+   "label": "Pizza",
+   "src": "",
+   "alt": "Pizzas mozzarella et basilic (illustration)"
+  },
+  "burger": {
+   "label": "Burger",
+   "src": "",
+   "alt": "Burger garni (illustration)"
+  }
+ }
+}

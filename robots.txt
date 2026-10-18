@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Sitemap: https://sayler991.github.io/Pi_Pizza_site/sitemap.xml
